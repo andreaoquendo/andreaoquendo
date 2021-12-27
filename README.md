@@ -1,11 +1,9 @@
 ### Hi there 👋
 
 - 🔭 I’m currently a Computer Engineering undergrad at UTFPR;
-- 🌱 I’m currently learning Algorithms and Databases;
-- 👯 I’m an [Emíli@s - Armação em Bits](https://emilias.dainf.ct.utfpr.edu.br) volunteer 
-- 😄 pronouns: She/Her
-- ⚡ fun fact: I have a racoon plushy whose name is Saimon!
-- 🎨 access [portfolio](https://andreaoquendo.github.io/portfolio/)
+- 🌱 Currently learning Algorithms and Databases;
+- 👯 [Emíli@s - Armação em Bits](https://emilias.dainf.ct.utfpr.edu.br) volunteer 
+- 😄 pronouns: she/her
 
 <div>
   <img height='180em' src='https://github-readme-stats.vercel.app/api?username=andreaoquendo&show_icons=true&theme=tokyonight'>
