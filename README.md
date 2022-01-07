@@ -1,11 +1,16 @@
-### Hi there 👋
-
-- 🔭 I’m currently a Computer Engineering undergrad at UTFPR;
-- 🌱 Currently learning Algorithms and Databases;
-- 👯 [Emíli@s - Armação em Bits](https://emilias.dainf.ct.utfpr.edu.br) volunteer 
-- 😄 pronouns: she/her
-
+<div style="margin-bottom: 20px" style="background-color:red">
+  <img src = "https://cdn.discordapp.com/attachments/821924517953798145/908712638308044890/output_9MpXys.gif" align="right" width=200px height=200px style="margin-right:300px"/>
+  <ul height=200px valign="margin-top:300px">
+    <br>
+    <br>
+    <li> 🔭 I’m currently a Computer Engineering undergrad at UTFPR;
+    <li>Currently learning Algorithms and Databases;
+    <li> Emíli@s - Armação em Bits volunteer 
+    <li>pronouns: she/her
+  </ul>
+</div>
 <div>
+<!--
   <img height='180em' src='https://github-readme-stats.vercel.app/api?username=andreaoquendo&show_icons=true&theme=tokyonight'>
   <img height='180em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=andreaoquendo&layout=compact&theme=tokyonight'>
 <div>
@@ -26,18 +31,4 @@
 <div>
 
  <img src = "https://cdn.discordapp.com/attachments/821924517953798145/908712638308044890/output_9MpXys.gif" width=200px height=200px />
-  
-<!--
-**andreaoquendo/andreaoquendo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
