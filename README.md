@@ -5,7 +5,7 @@
   <br>
   <br>My name is Andrea and I'm majoring in computer engineering. I'm working 
   <br>at PragmaSchool as front-end development intern and Salesforce Dev support. Currently 
-  <br>interested in front-end development (ReactJS), and learning UX Design with Alura.
+  <br>interested in front-end development (ReactJS), and learning UX Design on <b><a href="https://github.com/alura-cursos">Alura</a></b>.
 </p>
 <br>
 
