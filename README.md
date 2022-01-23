@@ -33,13 +33,11 @@
   <br>
   <img src = "https://i.pinimg.com/originals/24/7d/83/247d83fdd181ccd922f5c3237fdd17fe.gif" align="center" width=350px />
 </p>
-
-<br>
 <br>
 <br>
 <div>
   <p align="center"> 
-    Thank you!
+    Thank you for sharing your time with me!
     <br>Andrea.
     <br>
     <img src = "https://cdn.discordapp.com/attachments/821924517953798145/908712638308044890/output_9MpXys.gif" align="center" width=200px height=200px/>
