@@ -41,7 +41,7 @@
     Thank you for sharing your time with me!
     <br>Andrea.
     <br>
-    <img src = "https://cdn.discordapp.com/attachments/821924517953798145/908712638308044890/output_9MpXys.gif" align="center" width=200px height=200px/>
+    <img src = "https://cdn.discordapp.com/attachments/821924517953798145/908712638308044890/output_9MpXys.gif" align="center" width=100px height=100px/>
   </p>
 </div>
 <div>
