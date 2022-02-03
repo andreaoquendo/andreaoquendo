@@ -5,7 +5,7 @@
   <br>
   <br>My name is Andrea and I'm majoring in computer engineering. I'm working 
   <br>at PragmaSchool as front-end development intern and Salesforce Dev support. Currently 
-  <br>interested in front-end development (ReactJS), and learning UX Design on <b><a href="https://github.com/alura-cursos">Alura</a></b>.
+  <br>interested in Front-End development (ReactJS), and learning UX Design on <b><a href="https://github.com/alura-cursos">Alura</a></b>.
 </p>
 <br>
 
@@ -19,10 +19,11 @@
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <br>
+  <i>also Apex (but it seems like we don't have a badge for it)</i>
 </div>
 
 <br>
-  
 <p align="center">
   my hobbies are playing animal crossing, drawing, watching anime, 
   <br>playing card and board games with my friends, crocheting amigurumis, dancing,
