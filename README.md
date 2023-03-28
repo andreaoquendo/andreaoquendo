@@ -4,7 +4,7 @@
   hey, nice to see you here :yellow_heart:
   <br>
   <br>My name is Andrea and I'm majoring in computer engineering. I'm working 
-  <br>at UTFPR's Statistics' Department as an IT intern. Currently 
+  <br>at Driva as a Data Acquisition intern. Currently 
   <br>interested in Data Science, learning Python and an <b><a href="https://github.com/alura-cursos">Alura</a></b> student.
 </p>
 <br>
