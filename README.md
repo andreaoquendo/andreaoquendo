@@ -26,11 +26,6 @@
 <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
 <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
 </div>
-
-<br>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
-</p>
 <br>
 <br>
 <div>
@@ -39,6 +34,9 @@
     <br>Andrea.
     <br>
     </p>
+  <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreaoquendo&layout=compact" />
+</p>
 </div>
 <div>
 
