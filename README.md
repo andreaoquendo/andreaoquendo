@@ -11,7 +11,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: VSCode, Figma
+  💼 Ferramentas: VSCode, Figma, XCode
 </p>
 
 <p align="left">
