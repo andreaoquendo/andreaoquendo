@@ -26,3 +26,6 @@
   <a href="https://www.instagram.com/andrea.sanez/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
 </p>
+
+
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=andreaoquendo&theme=rose&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
