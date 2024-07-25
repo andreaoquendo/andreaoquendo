@@ -1,21 +1,21 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Oi! Eu sou a Andrea. Faço Engenharia da Computação na UTFPR e sou aluna da Apple Developer Academy.
-  Já trabalhei em Salesforce, desenvolvimento FrontEnd e Data Acquisition.
-  Meu objetivo é me tornar uma iOS Developer, e levar aplicativos incríveis pras mãos das pessoas.
+  Hi, I'm Andrea. I'm studying Computer Engineering at UTFPR and I'm a student at the Apple Developer Academy.
+  I've worked in Salesforce, FrontEnd development and Data Acquisition.
+  My goal is to become an iOS Developer, and get amazing apps into people's hands.
 </p>
 
 <p align="left">
-  🦄 Linguagens: Swift, C, C++, Python, JavaScript, TypeScript
+  🦄 Languages: Swift, C, C++, Python, JavaScript, TypeScript
 </p>
 
 <p align="left">
-  💼 Ferramentas: VSCode, Figma, XCode
+  💼 Tools: VSCode, Figma, XCode
 </p>
 
 <p align="left">
-  💌 Entre em contato comigo:
+  💌 Get in touch with me:
 </p>
 
 <p align="left">
