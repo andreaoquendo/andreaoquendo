@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Hi, I'm Andrea. I'm studying Computer Engineering at UTFPR and I'm a student at the Apple Developer Academy.
+  Hi, I'm Andrea. I'm a Computer Engineering undergrad at UTFPR and I'm an Apple Developer Academy alumni.
   I've worked in Salesforce, FrontEnd development and Data Acquisition.
   My goal is to become an iOS Developer, and get amazing apps into people's hands.
 </p>
