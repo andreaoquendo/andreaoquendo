@@ -2,7 +2,7 @@
 
 <p align="left"> 
   Hi, I'm Andrea. I'm a Computer Engineering undergrad at UTFPR and I'm an Apple Developer Academy alumni.
-  I've worked in Salesforce, FrontEnd development and Data Acquisition.
+  I've worked with Salesforce, FrontEnd development, Data Acquisition and mainly, iOS Apps.
   My goal is to become an iOS Developer, and get amazing apps into people's hands.
 </p>
 
